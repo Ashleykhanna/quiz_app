@@ -23,11 +23,6 @@ A GUI-based True/False trivia quiz app built with Python and Tkinter. Questions 
 pip install requests
 ```
 
-> If you are using the included virtual environment (`quenv`), activate it first:
-> ```bash
-> source quenv/bin/activate
-> ```
-
 ## How It Works
 
 1. `data.py` calls the Open Trivia DB API and stores the results in `question_data`.
